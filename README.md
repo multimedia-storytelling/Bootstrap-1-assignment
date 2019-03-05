@@ -5,8 +5,10 @@
 All the images you need for this assignment:
 
 [1932 Mock Con](http://83percent.org/images/mockcon1932.jpg)
+photo credit: Photo from University Archives
 
 [Oregon float](http://83percent.org/images/mock_con_oregon.jpg)
+photo caption: Oregon float at 2016 Mock Con Parade
 
 [Jimmy Carter](http://83percent.org/images/mockconjimmycarter-540.jpg)
 
