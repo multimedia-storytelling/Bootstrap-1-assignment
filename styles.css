@@ -1,0 +1,32 @@
+body {
+font-family: 'Open Sans', sans-serif;
+font-size: 21px;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+
+h1:after {
+  content:"";
+  display: block;
+  height: 4px;
+  background: #a3889e;
+  width: 150px;
+  margin-top: 10px;
+}
+
+.byline {
+  font-size:.8rem;
+}
+
+figcaption {
+  font-size: .75rem;
+  text-align: right;
+}
+
+.fas {
+  font-size: 8rem;
+  margin-top: 64px;
+}
